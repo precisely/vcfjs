@@ -1,0 +1,13 @@
+# package directories
+node_modules
+
+# Misc
+.DS_Store
+.idea
+coverage
+
+# Yarn stuff
+yarn-error.log
+
+# build dir
+lib/
